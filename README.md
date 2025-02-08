@@ -15,9 +15,11 @@ What Was Customized?
 🖼️ Features Section
 
 ✔️ Designed a “Features” section showcasing different plushie types
+
 ✔️ Each plushie has a custom description and playful title
 
 🔗 Footer Customization
 
 ✔️ Removed Privacy Policy & Code of Conduct links
+
 ✔️ Updated footer text to match CozyCompanions branding
