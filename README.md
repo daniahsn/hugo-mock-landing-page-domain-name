@@ -12,11 +12,13 @@ What Was Customized?
 
 ✔️ Styled with soft pastel colors for a cozy brand feel
 
+
 🖼️ Features Section
 
 ✔️ Designed a “Features” section showcasing different plushie types
 
 ✔️ Each plushie has a custom description and playful title
+
 
 🔗 Footer Customization
 
