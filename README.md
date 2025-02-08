@@ -18,6 +18,6 @@ The page was designed to be **warm, inviting, and brand-aligned**, showcasing pl
 
 ---
 
-## 🔗 **Footer Customization**  
-✔️ Removed **Privacy Policy & Code of Conduct** links  
+## 🔗 **Header and Footer Customization**  
+✔️ Added **contact informtation** to get customers in touch with the brand  
 ✔️ Updated **footer text** to match CozyCompanions branding  
