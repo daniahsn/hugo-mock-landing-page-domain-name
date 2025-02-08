@@ -1,3 +1,4 @@
+
 {{ define "main" }}
 
 <section class="section bd-masthead">
@@ -14,6 +15,11 @@
 
 <section class="section container my-3">
   {{ partial "features" . }}
+</section>
+
+<section class="section container my-5">
+  <h2 class="text-center fw-semibold mb-4" style="color: #B35A7D;">📰 News and Updates</h2>
+  {{ partial "latest-posts" . }}
 </section>
 
 {{ end }}
