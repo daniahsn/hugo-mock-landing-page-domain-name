@@ -7,7 +7,9 @@ What Was Customized?
 🛠 General Layout & Design
 
 ✔️ Updated homepage structure to better highlight plushies
+
 ✔️ Added “News and Updates” section for latest plushie releases
+
 ✔️ Styled with soft pastel colors for a cozy brand feel
 
 🖼️ Features Section
