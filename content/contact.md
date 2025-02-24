@@ -20,7 +20,4 @@ Have a question, a cozy plushie idea, or just want to say hello? We’d love to 
 🐦 **Twitter/X:** [@cozycompanions](https://twitter.com/cozycompanions)  
 📘 **Facebook:** [CozyCompanions Plushies](https://facebook.com/cozycompanions)  
 
-## 💡 Have an Idea or Feedback?  
-We love hearing from our plushie-loving community! Drop us a message, and we’ll get back to you as soon as possible.  
-
-👉 **[Contact Support](#)** | **[Shop Our Plushies](#)**  
+💻 Found a bug or have a feature request? [Open an issue](https://github.com/daniahsn/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
