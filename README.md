@@ -1,23 +1,18 @@
-# hugo-mock-landing-page    
+# Hugo Mock Landing Page - Auto Deployed 🚀
 
-This is a mock landing page for **CozyCompanions**, built using **Hugo** and **Bootstrap**.  
-The page was designed to be **warm, inviting, and brand-aligned**, showcasing plushies in a cozy, user-friendly layout.
+This repository contains a Hugo-based landing page that is automatically deployed using **GitHub Actions** and **GitHub Pages**.
 
----
+## 🌟 Continuous Deployment with GitHub Actions
 
-## 🛠 **General Layout & Design**  
-✔️ Updated **homepage structure** to better highlight plushies  
-✔️ Added **“News and Updates”** section for latest plushie releases  
-✔️ Styled with **soft pastel colors** for a cozy brand feel  
+We have set up a **GitHub Actions workflow** that automates the deployment of this Hugo site whenever changes are pushed to the `main` branch.
 
----
+### 🔄 How the Workflow Works:
+1. **Trigger:** The workflow runs **automatically on every push** to the `main` branch.
+2. **Build Process:** GitHub Actions builds the Hugo site using the latest version.
+3. **Deployment:** The built site is deployed to the `gh-pages` branch, making it live on **GitHub Pages**.
 
-## 🖼️ **Features Section**  
-✔️ Designed a **“Features”** section showcasing different plushie types  
-✔️ Each plushie has a **custom description and playful title**  
-
----
-
-## 🔗 **Header and Footer Customization**  
-✔️ Added **contact informtation** to get customers in touch with the brand  
-✔️ Updated **footer text** to match CozyCompanions branding  
+### 🚀 Steps to Deploy Changes:
+1. **Make changes** to the website 
+2. **Commit and push** the changes to the `main` branch.
+3. **GitHub Actions will automatically build and deploy** the new version to GitHub Pages.
+4. **Visit the live website** at: [your GitHub Pages URL](https://daniahsn.github.io/hugo-mock-landing-page-autodeployed)
